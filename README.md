@@ -4,7 +4,7 @@
  
  # Tutorial Video
  
-https://youtu.be/Ef5jw7QHTe4
+https://youtube.com/Ef5jw7QHTe4
 
 - Widget Tree:
 
@@ -13,8 +13,7 @@ https://youtu.be/Ef5jw7QHTe4
 ### New Widgets:
 FloatingActionButton - Image(Asset)
  
- # Screenshot
- <img src="https://firebasestorage.googleapis.com/v0/b/flutter-pro-51469.appspot.com/o/app%202%20preview%20%E2%80%90%20Made%20with%20Clipchamp.mp4?alt=media&token=9cf425a3-f644-4c3f-83a6-0011f30cfd63" height="400px"/>
+
  
  
  # Links 
